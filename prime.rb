@@ -7,4 +7,5 @@ def prime?(num)
     upper_limit = num / divisor
     divisor += 1
   end
+  true
 end
